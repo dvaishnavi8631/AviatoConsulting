@@ -8,7 +8,10 @@ variable "region" {
     description = "gcp region"
     type = string
 }
-
+variable "subnet_prefix" {
+  description = "subnet prefix values"
+  type = string
+}
 variable "subnet_cidrs" {
     description = "CIDR blocks"
     type = map(string)

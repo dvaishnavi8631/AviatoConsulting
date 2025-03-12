@@ -6,7 +6,7 @@ Prerequisites:
 
 Steps:
     1. Clone the repository with "git clone <repo_url>"
-    2. cd Tak1_CloudRun
+    2. cd Task1_CloudRun
 
     3. Set up the environment varibles with : export PROJECT_ID = <gcp_project_id>
     4. set the project with: gcloud config set project $gcp_project_id
