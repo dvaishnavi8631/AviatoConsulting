@@ -5,7 +5,7 @@ Prerequisites:
     3. Terraform installed
 
 Steps:
-    1. Clone the repository with "git clone <repo_url>
+    1. Clone the repository with "git clone <repo_url>"
     2. cd Tak1_CloudRun
 
     3. Set up the environment varibles with : export PROJECT_ID = <gcp_project_id>
